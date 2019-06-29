@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">Katja Soundboard</string>
+    <string name="package_name">com.soundbox.katjasoundboard</string>
+
+
+    <string name="interstitial_ad_frequency">2</string>
+
+
+    <!--Tab names-->
+    <string name="tab1">Kommentare</string>
+    <string name="tab2">Perverses</string>
+    <string name="tab3">Lustiges</string>
+
+    <!--Share app-->
+    <string name="playstore_link">https://play.google.com/store/apps/details?id=com.soundbox.katjasoundboard</string>
+    <string name="share_text">Get the</string>
+    <string name="share_via">Share via...</string>
+
+    <!--Sidebar titles-->
+    <string name="menu_title_sound">Sounds</string>
+    <string name="menu_title_share">Share app</string>
+
+    <!--Long click at sound-->
+    <string name="share_sound_title">Share sound</string>
+    <string name="set_tone_as_title">Set tone as...</string>
+    <string name="share_sound_via">Share sound via...</string>
+    <string name="ringtone_title">Ringtone</string>
+    <string name="notification_title">Notification</string>
+    <string name="alarm_title">Alarm tone</string>
+
+    <!--Permission-->
+    <string name="notice_that_app_needs_access_to_settings">The app needs access to your settings</string>
+
+    <!--This is where the sounds are saved if you share or save one-->
+    <string name="foldername">katjasoundboard</string>
+
+    <string name="rechtliches"> <b>INFO:</b>\n
+ Das Soundboard wurde nicht von Katja erstellt, sondern von Fans von ihr.\nFalls sie etwas gegen dieses Soundboard einzuwenden hat, sind wir jederzeit bereit es offline zu nehmen und stehen ihr bei Fragen, über Email, zur Verfügung.</string>
+
+</resources>
